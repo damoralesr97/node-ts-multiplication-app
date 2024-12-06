@@ -30,7 +30,7 @@ A console application in **Node.js** that generates multiplication tables. You c
 
 2. Go to the repository folder
    ```bash
-   cd multiplication-app
+   cd node-ts-multiplication-app
    ```
 3. Install the dependencies:
    ```bash
